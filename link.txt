@@ -1,24 +1,3 @@
-# Projet The Hyrule Castle
-
-Version du projet :
-```
-0.1 A
-```
-
-
-**Objectifs :**
-> Game Dev :	Deal with game development problematics  
-> User Input :	Manage user input and its error handling  
-> Control Structures :	Improve your programming knowledge by building a script  
-> Mathematics :	Create gameplay around algorithmic and mathematic functions  
-
-**Comment lancer le programe :**
-pré-requis, un terminal linux ou bien un [git bash](https://gitforwindows.org/) puis le lancer comme ceci
-```sh
-$> ./hyrule_castle.sh
-```
-Have fun :-) :
-```
               _______
          ..-'`       ````---.
        .'          ___ .'````.'SS'.
@@ -47,6 +26,3 @@ Have fun :-) :
           |    .'  `--'''''-.. |/
           |  .'               \|
           |.'
-
-```
-* * *
